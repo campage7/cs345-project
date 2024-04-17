@@ -1,5 +1,5 @@
 # cs345-project
-Zero Knowledge Proof by Cameron Page & Franco Diaz
+# Zero Knowledge Proof by Cameron Page & Franco Diaz
 
 A Zero Knowledge Proof (ZKP) is a protocol where a statement can be verified as true (or not true) without revealing anything about the statement itself.
 
@@ -9,11 +9,11 @@ ZKPs enable parties to prove the truth of a statement or the possession of certa
 
 ZKPs can sometimes offer more efficient solutions compared to traditional cryptographic methods. For example, they can enable secure multiparty computation with lower communication and computational overhead, making them suitable for resource-constrained environments.
 
-Strcture and Algorithms:
+# Strcture and Algorithms:
 
 Transactions and Block objects
 
-# Description
+*Description*
 
 ZKProof objects
 

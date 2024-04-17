@@ -9,3 +9,9 @@ ZKPs enable parties to prove the truth of a statement or the possession of certa
 
 ZKPs can sometimes offer more efficient solutions compared to traditional cryptographic methods. For example, they can enable secure multiparty computation with lower communication and computational overhead, making them suitable for resource-constrained environments.
 
+Strcture and Algorithms:
+
+Transactions and Block objects
+
+*Description*
+

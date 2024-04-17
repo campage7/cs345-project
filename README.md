@@ -13,7 +13,7 @@ Strcture and Algorithms:
 
 Transactions and Block objects
 
-*Description*
+# Description
 
 ZKProof objects
 

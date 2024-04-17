@@ -15,3 +15,18 @@ Transactions and Block objects
 
 *Description*
 
+ZKProof objects
+
+*Description*
+
+Recursive MerkleTree structure of TreeNodes
+
+*Description*
+
+Sequencer algorithm
+
+*Description*
+
+Prover and Verifier algorithms
+
+*Description*
